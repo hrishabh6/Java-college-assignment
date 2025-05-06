@@ -1,0 +1,9 @@
+Hello, this is a sample text file.
+We are using it to demonstrate byte stream file reading in Java.
+This file contains multiple lines to simulate real-world data.
+
+Java programming is fun!
+File handling is an important concept in Java.
+Let's see if we can read all the content from this file.
+
+Good luck with your assignment!

@@ -1,0 +1,31 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+target/
+classes/
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Maven
+/logs
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Gradle
+.gradle/
+build/
+
+# Java
+*.class
+
+# User-specific files
+*.swp
+*.swo
+*.bak
+*.tmp
